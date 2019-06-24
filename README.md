@@ -32,11 +32,7 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future-proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write.
 
-
 ----------------------------
-
-
-
 
 # Restaurant Reviews
 The goal of this poject is to  Make this web application Responsive  Have to increase the accessibility in HTML and CSS along with javascript  Make this application Offline first by using serviceWorker.
@@ -46,12 +42,22 @@ The goal of this poject is to  Make this web application Responsive  Have to inc
 - Installed Python in my local system by using sudo apt-get install python3 command. Changed the directory to my downloaded project
 - Run the python http server by using python -m SimpleHTTPServer command it took 8000 as port.
 - FInally opened localhost:8000 url in my browser to check the output.
+
  -------------------------------------------------------------------------------------------
+ 
 # I did following steps to complete the my project
 
-##Leaflet.js and Mapbox:
+## Leaflet.js and Mapbox:
 - This repository uses leafletjs with Mapbox. You need to replace <your MAPBOX API KEY HERE> with a token from Mapbox. Mapbox is free to 
 use, and does not require any payment information. For loading map I copied the JavaScript Token which was provided by MapBox.
+ 
+## ServiceWoker:
 
+MDN.This resource in particular helped me to set up correctly the ServiceWorker.
 
+## Note about ES6
+Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and 
+future proofing JavaScript code.
+
+# thanks for accomplish the project
 
