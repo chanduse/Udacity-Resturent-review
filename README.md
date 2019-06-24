@@ -59,5 +59,5 @@ MDN.This resource in particular helped me to set up correctly the ServiceWorker.
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and 
 future proofing JavaScript code.
 
-# thanks for accomplish the project
+# Thanks for accomplish the project.
 
